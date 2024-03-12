@@ -1,0 +1,4 @@
+﻿  S04.c
+C:\Users\andre\source\repos\Olaru_Andreea_ActivitateSD2024\S04\S04.c(45,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\andre\source\repos\Olaru_Andreea_ActivitateSD2024\S04\S04.c(95,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  S04.vcxproj -> C:\Users\andre\source\repos\Olaru_Andreea_ActivitateSD2024\S04\x64\Debug\S04.exe
