@@ -1,0 +1,4 @@
+﻿  Task02.c
+C:\Users\andre\source\repos\Olaru_Andreea_ActivitateSD2024\Task suplimentar 2\Task02.c(188,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\source\repos\Olaru_Andreea_ActivitateSD2024\Task suplimentar 2\Task02.c(189,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Task suplimentar 2.vcxproj -> C:\Users\andre\source\repos\Olaru_Andreea_ActivitateSD2024\Task suplimentar 2\x64\Debug\Task suplimentar 2.exe
