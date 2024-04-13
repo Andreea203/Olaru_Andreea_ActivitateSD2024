@@ -1,0 +1,10 @@
+Constanta,50,200
+Bucuresti,100,400
+Arad,48,180
+Timisoara,40,150
+Galati,29,90
+Buzau,27,98
+Calarasi,15,50
+Craiova,47,170
+Tulcea,17,67
+Bacau,21,80
