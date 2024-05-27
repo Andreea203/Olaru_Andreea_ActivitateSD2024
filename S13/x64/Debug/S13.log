@@ -1,0 +1,6 @@
+﻿  S13.c
+C:\Users\andre\source\repos\Olaru_Andreea_ActivitateSD2024\S13\S13.c(31,48): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\andre\source\repos\Olaru_Andreea_ActivitateSD2024\S13\S13.c(32,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  seminar13.c
+  Generating Code...
+  S13.vcxproj -> C:\Users\andre\source\repos\Olaru_Andreea_ActivitateSD2024\S13\x64\Debug\S13.exe
